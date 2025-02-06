@@ -1,0 +1,2 @@
+# PHP Null Parameter Handling Bug
+This repository demonstrates a common bug in PHP: unexpected behavior when function parameters are null. The `myFunc` function doesn't explicitly handle null values, leading to potential errors or incorrect results. The solution file demonstrates how to handle these null values appropriately.
